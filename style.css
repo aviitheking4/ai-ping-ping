@@ -1,0 +1,37 @@
+.heading
+{
+width: 100%;
+text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start ,#stats, #restart
+{
+font-size: 22px;
+}
+
+.copy
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+   bottom: 0%;
+   position: fixed;
+   width: 100%;
+   text-align: center;
+}
+canvas 
+  {
+      border:3px solid rgb(206, 66, 66);
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px rgb(54, 166, 201);
+  }
+
+
